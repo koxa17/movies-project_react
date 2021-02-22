@@ -1,8 +1,8 @@
 {
-  "name": "movies-project",
+  "name": "movies-project_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://koxa17/github.io/movies-project_react"
+  "homepage": "https://koxa17/github.io/movies-project_react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
